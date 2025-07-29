@@ -4,9 +4,9 @@ I created this calculator as a mini project to practice web development. I follo
 This was a fun, especially for someone just starting out. Highly recommend it to other beginners!
 
 ## Technologies Used
-HTML
-CSS 
-JavaScript
+- HTML
+- CSS 
+- JavaScript
 
 ### Design Inspiration
 The UI design was inspired by this awesome YouTube tutorial: https://youtu.be/dDGvSX6vTFY?si=Q47YVncgeuZH9RTq
